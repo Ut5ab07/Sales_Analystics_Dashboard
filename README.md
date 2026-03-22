@@ -30,3 +30,12 @@ Developed an interactive Power BI dashboard to analyze sales performance, custom
 
 * `dashboard.pbix` – Power BI dashboard file
 * `dashboard.png` – Dashboard preview image
+
+
+---
+
+## 👨‍💻 Author
+
+**Utsab Raj Acharya**
+
+---
